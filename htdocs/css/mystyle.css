@@ -1,0 +1,11 @@
+.card {
+    position: absolute;
+    top: 1px; /* Header Height */
+    bottom: 1px; /* Footer Height */
+    width: 100%;
+}
+
+.centered {
+    padding-top: 5%;
+    width: 100%
+}
